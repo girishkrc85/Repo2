@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 04D9-CECF
-
- Directory of C:\Users\girish.chidananda\Desktop\New folder
-
-06-02-2021  22:17    <DIR>          .
-06-02-2021  22:17    <DIR>          ..
-06-02-2021  22:17                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  62,135,566,336 bytes free
+Change 1
